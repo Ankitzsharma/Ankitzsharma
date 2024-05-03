@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ankitzsharma
+- 👋 Hi, I’m Ankitz
 - 👀 I’m interested in Web Devlepment,DSA[Problem Solving]
 - 🌱 I’m currently learning DSA in JAVA,Web Development
 - 💞️ I’m looking to collaborate on IntrnShip And Open Source Contributions To Enhancing my Learning Journey
