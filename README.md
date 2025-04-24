@@ -1,6 +1,6 @@
 - 👋 Hi, My Name Is Ankit Sharma.
 - 💞️ I’m looking to collaborate on InternShip And Open Source Contributions To Enhancing my Learning Journey.
-- 🌱 I’m currently Mastering DSA in JAVA,Python & Web Development.
+- 🌱 I’m currently Mastering DSA in JAVA, Python & Web Development.
 - 👀 I’m interested in Web Devlepment, DSA[Problem Solving].
 - 📫 Let's Connect on Linkedin,Twitter.
 - 😄 Let's Grow Together.
